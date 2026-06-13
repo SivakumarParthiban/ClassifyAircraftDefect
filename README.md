@@ -53,7 +53,7 @@ Display test images alongside their true and predicted labels. True labels and p
 
 
 
-****Part 2: Image Captioning and Summarization using BLIP Pretrained Model**
+**Part 2: Image Captioning and Summarization using BLIP Pretrained Model**
 
 BLIP (Bootstrapping Language-Image Pretraining) is an advanced vision-and-language 
 model designed to generate natural language descriptions for images. By leveraging both visual and textual information, BLIP can produce human-readable text that accurately reflects the content and context of an image. It is specifically trained to understand images and their relationships to summarizing text, making it ideal for tasks like image captioning, summarization, and visual question answering.
