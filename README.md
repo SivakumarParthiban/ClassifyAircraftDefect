@@ -1,6 +1,7 @@
 # ClassifyAircraftDefect
 
 **Part 1 - Classification Problem: Classifying the defect on the aircraft as 'dent' or 'crack'**
+
 **1.1	Dataset Preparation**
 
 The first step is to load and prepare the dataset of aircraft images. These images are labeled either as 'dent' or 'crack'. We will also split the dataset into training, validation, and test sets.
